@@ -22,8 +22,7 @@ La aplicación web cliente-servidor a desarrollar consiste en un sistema que per
 
 ## Modelo
 
-<img width="1115" height="758" alt="image" src="https://github.com/user-attachments/assets/f0d19e2d-919d-496f-acf4-0f630ed8890a" />
-
+<img width="1093" height="715" alt="image" src="https://github.com/user-attachments/assets/61a8eca2-da79-417d-b602-8440574a0d00" />
 
 ## Checklist
 
@@ -42,6 +41,6 @@ La aplicación web cliente-servidor a desarrollar consiste en un sistema que per
 | Requerimiento | Detalle |
 | :--- | :--- |
 | **ABMC** | 1. Usuario<br>2. Administrador<br>3. Cliente<br>4. Empleado<br>5. Servicio<br>6. Promoción<br>7. Producto<br>8. Venta<br>9. Reserva<br>10. LíneaVenta |
-| **CU "Complejo"**(nivel resumen) | 1. CUR Realizar venta (CUU Cancelar venta, Modificar Venta, Gestionar stock)<br>2. CUR Realizar reserva (CUU Cancelar reserva)<br>3. CUR Establecer promoción<br>4. Agregar stock |
+| **CU "Complejo"**(nivel resumen) | 1. CUR Realizar venta (CUU Cancelar venta, Modificar Venta, Gestionar stock)<br>2. CUR Realizar reserva (CUU Cancelar reserva)<br>3. CUR Establecer promoción<br>4. CUR Agregar stock |
 | **Listado complejo** | 1. Listado de horarios posibles para reserva => filtrado por servicio y por horarios desponibles de los empleados |
 | **Nivel de acceso** | 1. Usuario<br>2. Empleado<br>3. Administrador |
