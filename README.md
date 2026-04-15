@@ -22,7 +22,7 @@ La aplicación web cliente-servidor a desarrollar consiste en un sistema que per
 
 ## Modelo
 
-<img width="1121" height="840" alt="tp-java" src="https://github.com/user-attachments/assets/90278003-7746-4ce0-a08f-15a120a7c018" />
+<img width="1172" height="776" alt="image" src="https://github.com/user-attachments/assets/e93650e7-94c7-48d2-94c8-bf35bf560a91" />
 
 
 ## Checklist
