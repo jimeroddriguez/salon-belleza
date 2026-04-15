@@ -22,7 +22,7 @@ La aplicación web cliente-servidor a desarrollar consiste en un sistema que per
 
 ## Modelo
 
-<img width="1172" height="776" alt="image" src="https://github.com/user-attachments/assets/e93650e7-94c7-48d2-94c8-bf35bf560a91" />
+<img width="1115" height="758" alt="image" src="https://github.com/user-attachments/assets/f0d19e2d-919d-496f-acf4-0f630ed8890a" />
 
 
 ## Checklist
@@ -31,17 +31,17 @@ La aplicación web cliente-servidor a desarrollar consiste en un sistema que per
 
 | Requerimiento | Detalle |
 | :--- | :--- |
-| **ABMC simple** | 1. Vianda<br>2. Ingrediente |
-| **ABMC dependiente** | 1. Ingrediente_vianda {depende de} Vianda e Ingrediente |
-| **CU NO-ABMC** | 1. CUU Realizar pedido |
-| **Listado simple** | 1. Listado de las viandas => Detalle muestra información completa de las viandas y sus ingredientes |
+| **ABMC simple** | 1. Usuario<br>2. Servicio |
+| **ABMC dependiente** | 1. Reserva {depende de} Usuario y Servicio|
+| **CU NO-ABMC** | 1. CUU Realizar reserva |
+| **Listado simple** | 1. Listado de reservas => Detalle muestra tipo de servicio reservado, día, horario, precio y empleado que lo realiza |
 | **Listado complejo** | - |
 
 ### Aprobación Directa
 
 | Requerimiento | Detalle |
 | :--- | :--- |
-| **ABMC** | 1. Usuario<br>2. Administrador<br>3. Cliente<br>4. Empresa<br>5. Mayorista<br>6. Vianda<br>7. Ingrediente<br>8. Ingrediente_vianda<br>9. Pedido<br>10. Detalle_pedido |
-| **CU "Complejo"**(nivel resumen) | 1. CUR Seguimiento de pedidos (CUU Consultar listado de pedidos por estado y CUU Actualizar estado de pedido) |
-| **Listado complejo** | 1. Listado de pedidos confirmados |
-| **Nivel de acceso** | 1. Usuario<br>2. Administrador |
+| **ABMC** | 1. Usuario<br>2. Administrador<br>3. Cliente<br>4. Empleado<br>5. Servicio<br>6. Promoción<br>7. Producto<br>8. Venta<br>9. Reserva<br>10. LíneaVenta |
+| **CU "Complejo"**(nivel resumen) | 1. CUR Realizar venta (CUU Cancelar venta, Modificar Venta)<br>2. CUR Realizar reserva (CUU Cancelar reserva)<br>3. CUR Establecer promoción |
+| **Listado complejo** | 1. Listado de horarios posibles para reserva => filtrado por servicio y por horarios desponibles de los empleados |
+| **Nivel de acceso** | 1. Usuario<br>2. Empleado<br>3. Administrador |
