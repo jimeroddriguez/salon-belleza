@@ -42,6 +42,6 @@ La aplicación web cliente-servidor a desarrollar consiste en un sistema que per
 | Requerimiento | Detalle |
 | :--- | :--- |
 | **ABMC** | 1. Usuario<br>2. Administrador<br>3. Cliente<br>4. Empleado<br>5. Servicio<br>6. Promoción<br>7. Producto<br>8. Venta<br>9. Reserva<br>10. LíneaVenta |
-| **CU "Complejo"**(nivel resumen) | 1. CUR Realizar venta (CUU Cancelar venta, Modificar Venta, Gestionar stock)<br>2. CUR Realizar reserva (CUU Cancelar reserva)<br>3. CUR Establecer promoción |
+| **CU "Complejo"**(nivel resumen) | 1. CUR Realizar venta (CUU Cancelar venta, Modificar Venta, Gestionar stock)<br>2. CUR Realizar reserva (CUU Cancelar reserva)<br>3. CUR Establecer promoción<br>4. Agregar stock |
 | **Listado complejo** | 1. Listado de horarios posibles para reserva => filtrado por servicio y por horarios desponibles de los empleados |
 | **Nivel de acceso** | 1. Usuario<br>2. Empleado<br>3. Administrador |
