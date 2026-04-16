@@ -11,7 +11,7 @@
 
 ## Descripción
 
-La aplicación web cliente-servidor a desarrollar consiste en un sistema que permite reservar turnos para distintos tipos de servicios, como también la compra de productos de belleza. Los turnos podrán ser reservados y personalizados por cada cliente,  facilitando la organización semanal para los empleados y permitiendo, a su vez, la gestión de diversas promociones y descuentos establecidos por el dueño. Además, el sistema realizará una gestión de stock eficiente de productos a medida que son vendidos.
+El sistema a desarrollar es una aplicación web cliente-servidor que permite tanto la reserva de turnos para distintos tipos de servicios como la compra de productos de belleza. Los turnos podrán ser reservados y personalizados por cada cliente, facilitando la organización semanal para los empleados y permitiendo, a su vez, la gestión de diversas promociones y descuentos establecidos por los administradores. Además, el sistema gestionará de forma eficiente el stock de productos a medida que se venden.
 
 ## Modelo
 
