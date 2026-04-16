@@ -1,6 +1,6 @@
 # Salon de Belleza
 
-## Propuesta TP Desarrollo - Lenguaje de Programación Java
+## Propuesta TP - Lenguaje de Programación Java
 
 ## Grupo
 
