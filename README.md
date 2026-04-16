@@ -1,24 +1,17 @@
 # Salon de Belleza
 
-## Propuesta TP - Lenguaje de Programación Java
+### Propuesta TP - Lenguaje de Programación Java
 
-## Grupo
-
-### Integrantes
+## Integrantes
 
 | Legajo | Apellido y Nombre |
 |--------|-------------------|
 | 51101 | Montenegro, Sofia |
 | 54098 | Rodriguez, Jimena |
 
-## Tema
-
-Salón de belleza
-
-### Descripción
+## Descripción
 
 La aplicación web cliente-servidor a desarrollar consiste en un sistema que permite reservar turnos para distintos tipos de servicios, como también la compra de productos de belleza. Los turnos podrán ser reservados y personalizados por cada cliente,  facilitando la organización semanal para los empleados y permitiendo, a su vez, la gestión de diversas promociones y descuentos establecidos por el dueño. Además, el sistema realizará una gestión de stock eficiente de productos a medida que son vendidos.
-
 
 ## Modelo
 
