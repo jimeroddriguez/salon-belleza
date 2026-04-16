@@ -15,7 +15,8 @@ El sistema a desarrollar es una aplicación web cliente-servidor que permite tan
 
 ## Modelo de dominio
 
-<img width="1093" height="715" alt="image" src="https://github.com/user-attachments/assets/61a8eca2-da79-417d-b602-8440574a0d00" />
+<img width="847" height="584" alt="image" src="https://github.com/user-attachments/assets/c163b6fc-ca8d-4324-b019-67469cf76ae3" />
+
 
 ## Checklist
 
