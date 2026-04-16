@@ -13,7 +13,7 @@
 
 El sistema a desarrollar es una aplicación web cliente-servidor que permite tanto la reserva de turnos para distintos tipos de servicios como la compra de productos de belleza. Los turnos podrán ser reservados y personalizados por cada cliente, facilitando la organización semanal para los empleados y permitiendo, a su vez, la gestión de diversas promociones y descuentos establecidos por los administradores. Además, el sistema gestionará de forma eficiente el stock de productos a medida que se venden.
 
-## Modelo
+## Modelo de dominio
 
 <img width="1093" height="715" alt="image" src="https://github.com/user-attachments/assets/61a8eca2-da79-417d-b602-8440574a0d00" />
 
