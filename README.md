@@ -1,4 +1,4 @@
-# Salon de Belleza
+# Salón de Belleza
 
 ### Propuesta TP - Lenguaje de Programación Java
 
