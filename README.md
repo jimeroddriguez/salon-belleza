@@ -24,9 +24,9 @@ El sistema a desarrollar es una aplicación web cliente-servidor que permite tan
 
 | Requerimiento | Detalle |
 | :--- | :--- |
-| **ABMC simple** | 1. Usuario<br>2. Servicio |
-| **ABMC dependiente** | 1. Reserva {depende de} Usuario y Servicio|
-| **CU NO-ABMC** | 1. CUU Realizar reserva |
+| **ABMC simple** | 1. Producto<br>2. Servicio |
+| **ABMC dependiente** | 1. Promoción {depende de} Producto y Servicio|
+| **CU NO-ABMC** | 1. CUU Reservar servicio |
 | **Listado simple** | 1. Listado de reservas => Detalle muestra tipo de servicio reservado, día, horario, precio y empleado que lo realiza |
 | **Listado complejo** | - |
 
@@ -36,5 +36,5 @@ El sistema a desarrollar es una aplicación web cliente-servidor que permite tan
 | :--- | :--- |
 | **ABMC** | 1. Usuario<br>2. Administrador<br>3. Cliente<br>4. Empleado<br>5. Servicio<br>6. Promoción<br>7. Producto<br>8. Venta<br>9. Reserva<br>10. LíneaVenta |
 | **CU "Complejo"**(nivel resumen) | 1. CUR Realizar venta (CUU Cancelar venta, Modificar Venta, Gestionar stock)<br>2. CUR Realizar reserva (CUU Cancelar reserva)<br>3. CUR Establecer promoción<br>4. CUR Agregar stock |
-| **Listado complejo** | 1. Listado de horarios posibles para reserva => filtrado por servicio y por horarios desponibles de los empleados |
+| **Listado complejo** | 1. Listado de horarios posibles para reserva => filtrado por servicio y por horarios disponibles de los empleados |
 | **Nivel de acceso** | 1. Usuario<br>2. Empleado<br>3. Administrador |
